@@ -2,5 +2,4 @@
 ## Проект
 Этот репозиторий является каркасом для будущего веб-приложения.
 ## Ссылки
-- [Публичная страница на GitHub Pages](https://evilrouge.github.io/
-my-project/)
+- [Публичная страница на GitHub Pages](https://evilrouge.github.io/my-project/)
